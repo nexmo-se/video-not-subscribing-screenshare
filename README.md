@@ -2,7 +2,7 @@
 
 ## About the application
 
-This application demonstrates how to create a video conferencing application that allows you to share your screen while other users can't see it. If you record the video session, the screen sharing stream will be included in the recording even though it was not visible for other users. The users who publishes the screen-sharing stream will see a small thumbnail view of the screen-share at the top left.
+This application demonstrates how to create a video conferencing application that allows you to share your screen while other users can't see it. If you record the video session, the screen sharing stream will be included in the recording even though it was not visible for other users. The user who publishes the screen-sharing stream will see a small thumbnail view of the screen-share at the top left.
 
 ## Application Structure
 
